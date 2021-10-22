@@ -1,5 +1,6 @@
 ### Hi there
 
+- I'm Bruno, and I'm from Brazil
 - Computer Science Student at Universidade Paulista.
 - Current Learning Web Development.
 - Skills:
