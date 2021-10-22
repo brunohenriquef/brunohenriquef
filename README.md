@@ -1,8 +1,9 @@
 ### Hi there
 
-- I'm Bruno, and I'm from Brazil
+- I'm Bruno, and I'm from Brazil.
 - Computer Science Student at Universidade Paulista.
 - Current Learning Web Development.
+- You can find me at brunohenriqueffdev @gmail.com
 - Skills:
 
 <div style="display: inline-block">
